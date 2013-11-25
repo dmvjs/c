@@ -1,0 +1,4 @@
+c
+=
+
+phonegap feed reader
