@@ -1,0 +1,240 @@
+2013-11-24 17:22:54.334 HelloWorld[65311:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:22:54.482 HelloWorld[65311:a0b] Resetting plugins due to page load.
+2013-11-24 17:22:54.531 HelloWorld[65311:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:26:35.869 HelloWorld[65814:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:26:35.960 HelloWorld[65814:a0b] Resetting plugins due to page load.
+2013-11-24 17:26:35.994 HelloWorld[65814:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:27:06.553 HelloWorld[66241:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:27:06.668 HelloWorld[66241:a0b] Resetting plugins due to page load.
+2013-11-24 17:27:06.701 HelloWorld[66241:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:28:45.562 HelloWorld[66689:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:28:45.691 HelloWorld[66689:a0b] Resetting plugins due to page load.
+2013-11-24 17:28:45.720 HelloWorld[66689:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:29:45.655 HelloWorld[67126:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:29:45.782 HelloWorld[67126:a0b] Resetting plugins due to page load.
+2013-11-24 17:29:45.813 HelloWorld[67126:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:30:26.565 HelloWorld[67555:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:30:26.658 HelloWorld[67555:a0b] Resetting plugins due to page load.
+2013-11-24 17:30:26.706 HelloWorld[67555:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:30:54.376 HelloWorld[67980:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:30:54.508 HelloWorld[67980:a0b] Resetting plugins due to page load.
+2013-11-24 17:30:57.500 HelloWorld[67980:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:32:46.038 HelloWorld[68432:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:32:46.166 HelloWorld[68432:a0b] Resetting plugins due to page load.
+2013-11-24 17:32:46.212 HelloWorld[68432:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:34:11.194 HelloWorld[68877:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:34:11.321 HelloWorld[68877:a0b] Resetting plugins due to page load.
+2013-11-24 17:34:11.352 HelloWorld[68877:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:37:17.911 HelloWorld[69432:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:37:18.040 HelloWorld[69432:a0b] Resetting plugins due to page load.
+2013-11-24 17:37:18.073 HelloWorld[69432:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:37:24.248 HelloWorld[69432:a0b] THREAD WARNING: ['Notification'] took '15.542969' ms. Plugin should use a background thread.
+2013-11-24 17:38:07.144 HelloWorld[69886:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:38:07.271 HelloWorld[69886:a0b] Resetting plugins due to page load.
+2013-11-24 17:38:07.303 HelloWorld[69886:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/0E5A86C1-E200-4013-A92F-9233588FDCBB/HelloWorld.app/www/index.html
+2013-11-24 17:41:50.096 APPSTOR[70437:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:41:50.105 APPSTOR[70437:a0b] Fix applied for database locations?: YES
+2013-11-24 17:41:50.232 APPSTOR[70437:a0b] Resetting plugins due to page load.
+2013-11-24 17:41:50.263 APPSTOR[70437:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:52:18.430 APPSTOR[71102:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:52:18.576 APPSTOR[71102:a0b] Resetting plugins due to page load.
+2013-11-24 17:52:18.606 APPSTOR[71102:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:52:46.542 APPSTOR[71183:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:52:46.682 APPSTOR[71183:a0b] Resetting plugins due to page load.
+2013-11-24 17:52:46.710 APPSTOR[71183:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:53:06.222 APPSTOR[71648:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:53:06.350 APPSTOR[71648:a0b] Resetting plugins due to page load.
+2013-11-24 17:53:06.379 APPSTOR[71648:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:53:42.366 APPSTOR[71736:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:53:42.495 APPSTOR[71736:a0b] Resetting plugins due to page load.
+2013-11-24 17:53:42.526 APPSTOR[71736:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:53:59.260 APPSTOR[72202:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:53:59.382 APPSTOR[72202:a0b] Resetting plugins due to page load.
+2013-11-24 17:53:59.416 APPSTOR[72202:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:55:18.250 APPSTOR[72301:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:55:18.381 APPSTOR[72301:a0b] Resetting plugins due to page load.
+2013-11-24 17:55:18.414 APPSTOR[72301:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:55:39.811 APPSTOR[72768:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:55:39.939 APPSTOR[72768:a0b] Resetting plugins due to page load.
+2013-11-24 17:55:39.966 APPSTOR[72768:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:56:18.839 APPSTOR[72853:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:56:18.987 APPSTOR[72853:a0b] Resetting plugins due to page load.
+2013-11-24 17:56:19.013 APPSTOR[72853:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:56:35.009 APPSTOR[73315:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:56:35.133 APPSTOR[73315:a0b] Resetting plugins due to page load.
+2013-11-24 17:56:35.163 APPSTOR[73315:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:57:19.108 APPSTOR[73787:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:57:19.233 APPSTOR[73787:a0b] Resetting plugins due to page load.
+2013-11-24 17:57:21.834 APPSTOR[73787:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:57:46.677 APPSTOR[74251:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:57:46.795 APPSTOR[74251:a0b] Resetting plugins due to page load.
+2013-11-24 17:57:46.824 APPSTOR[74251:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:58:29.208 APPSTOR[74722:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:58:29.331 APPSTOR[74722:a0b] Resetting plugins due to page load.
+2013-11-24 17:58:31.944 APPSTOR[74722:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:58:52.727 APPSTOR[75185:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:58:52.845 APPSTOR[75185:a0b] Resetting plugins due to page load.
+2013-11-24 17:58:52.876 APPSTOR[75185:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 17:59:42.084 APPSTOR[75656:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 17:59:42.209 APPSTOR[75656:a0b] Resetting plugins due to page load.
+2013-11-24 17:59:42.239 APPSTOR[75656:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:01:55.224 APPSTOR[76155:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:01:55.357 APPSTOR[76155:a0b] Resetting plugins due to page load.
+2013-11-24 18:01:55.388 APPSTOR[76155:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:02:31.137 APPSTOR[76155:4203] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2013-11-24 18:02:38.116 APPSTOR[76256:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:02:38.261 APPSTOR[76256:a0b] Resetting plugins due to page load.
+2013-11-24 18:02:38.287 APPSTOR[76256:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:07:03.840 APPSTOR[76792:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:07:03.967 APPSTOR[76792:a0b] Resetting plugins due to page load.
+2013-11-24 18:07:03.996 APPSTOR[76792:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:18:06.730 APPSTOR[77476:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:18:06.857 APPSTOR[77476:a0b] Resetting plugins due to page load.
+2013-11-24 18:18:06.888 APPSTOR[77476:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:24:02.862 APPSTOR[78046:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:24:02.992 APPSTOR[78046:a0b] Resetting plugins due to page load.
+2013-11-24 18:24:03.039 APPSTOR[78046:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:27:44.004 APPSTOR[78580:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:27:44.125 APPSTOR[78580:a0b] Resetting plugins due to page load.
+2013-11-24 18:27:44.171 APPSTOR[78580:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:28:47.273 APPSTOR[79066:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:28:47.403 APPSTOR[79066:a0b] Resetting plugins due to page load.
+2013-11-24 18:28:47.449 APPSTOR[79066:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:37:58.107 APPSTOR[80090:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:37:58.227 APPSTOR[80090:a0b] Resetting plugins due to page load.
+2013-11-24 18:37:58.278 APPSTOR[80090:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:38:22.629 APPSTOR[80559:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:38:22.762 APPSTOR[80559:a0b] Resetting plugins due to page load.
+2013-11-24 18:38:22.809 APPSTOR[80559:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 18:38:53.360 APPSTOR[81030:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 18:38:53.482 APPSTOR[81030:a0b] Resetting plugins due to page load.
+2013-11-24 18:38:53.528 APPSTOR[81030:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:31:10.346 APPSTOR[83362:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:31:10.482 APPSTOR[83362:a0b] Resetting plugins due to page load.
+2013-11-24 20:31:10.554 APPSTOR[83362:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:35:57.821 APPSTOR[83921:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:35:57.947 APPSTOR[83921:a0b] Resetting plugins due to page load.
+2013-11-24 20:35:57.995 APPSTOR[83921:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:39:18.390 APPSTOR[84450:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:39:18.513 APPSTOR[84450:a0b] Resetting plugins due to page load.
+2013-11-24 20:39:18.560 APPSTOR[84450:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:40:12.191 APPSTOR[84953:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:40:12.330 APPSTOR[84953:a0b] Resetting plugins due to page load.
+2013-11-24 20:40:12.384 APPSTOR[84953:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:40:53.599 APPSTOR[85428:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:40:53.727 APPSTOR[85428:a0b] Resetting plugins due to page load.
+2013-11-24 20:40:53.781 APPSTOR[85428:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:44:04.213 APPSTOR[85974:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:44:04.338 APPSTOR[85974:a0b] Resetting plugins due to page load.
+2013-11-24 20:44:04.386 APPSTOR[85974:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:45:38.986 APPSTOR[86489:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:45:39.079 APPSTOR[86489:a0b] Resetting plugins due to page load.
+2013-11-24 20:45:39.134 APPSTOR[86489:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:52:12.682 APPSTOR[87094:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:52:12.819 APPSTOR[87094:a0b] Resetting plugins due to page load.
+2013-11-24 20:52:12.877 APPSTOR[87094:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:57:10.779 APPSTOR[87648:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:57:10.907 APPSTOR[87648:a0b] Resetting plugins due to page load.
+2013-11-24 20:57:10.954 APPSTOR[87648:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:59:10.947 APPSTOR[87756:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:59:11.075 APPSTOR[87756:a0b] Resetting plugins due to page load.
+2013-11-24 20:59:11.123 APPSTOR[87756:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 20:59:22.744 APPSTOR[88230:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 20:59:22.875 APPSTOR[88230:a0b] Resetting plugins due to page load.
+2013-11-24 20:59:22.922 APPSTOR[88230:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:01:14.412 APPSTOR[88366:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:01:14.575 APPSTOR[88366:a0b] Resetting plugins due to page load.
+2013-11-24 21:01:14.628 APPSTOR[88366:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:03:38.966 APPSTOR[88900:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:03:39.102 APPSTOR[88900:a0b] Resetting plugins due to page load.
+2013-11-24 21:03:39.150 APPSTOR[88900:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:03:39.209 APPSTOR[88900:a0b] THREAD WARNING: ['Notification'] took '37.687012' ms. Plugin should use a background thread.
+2013-11-24 21:04:44.706 APPSTOR[89399:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:04:44.839 APPSTOR[89399:a0b] Resetting plugins due to page load.
+2013-11-24 21:04:44.902 APPSTOR[89399:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:04:44.961 APPSTOR[89399:a0b] THREAD WARNING: ['Notification'] took '36.701172' ms. Plugin should use a background thread.
+2013-11-24 21:15:23.053 APPSTOR[90168:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:15:23.191 APPSTOR[90168:a0b] Resetting plugins due to page load.
+2013-11-24 21:15:23.237 APPSTOR[90168:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:16:06.242 APPSTOR[90715:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:16:06.370 APPSTOR[90715:a0b] Resetting plugins due to page load.
+2013-11-24 21:16:06.423 APPSTOR[90715:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:16:06.497 APPSTOR[90715:a0b] THREAD WARNING: ['Notification'] took '45.023926' ms. Plugin should use a background thread.
+2013-11-24 21:16:22.101 APPSTOR[90715:a0b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2903.2/UIApplication.m:9467
+2013-11-24 21:16:22.106 APPSTOR[90715:a0b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2013-11-24 21:25:20.976 APPSTOR[91419:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:25:21.112 APPSTOR[91419:a0b] Resetting plugins due to page load.
+2013-11-24 21:25:21.194 APPSTOR[91419:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:34:21.748 APPSTOR[92120:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:34:21.903 APPSTOR[92120:a0b] Resetting plugins due to page load.
+2013-11-24 21:34:21.981 APPSTOR[92120:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:35:52.897 APPSTOR[92670:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:35:53.034 APPSTOR[92670:a0b] Resetting plugins due to page load.
+2013-11-24 21:35:53.084 APPSTOR[92670:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:36:35.821 APPSTOR[93209:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:36:35.943 APPSTOR[93209:a0b] Resetting plugins due to page load.
+2013-11-24 21:36:35.992 APPSTOR[93209:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:39:29.096 APPSTOR[93789:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:39:29.227 APPSTOR[93789:a0b] Resetting plugins due to page load.
+2013-11-24 21:39:29.279 APPSTOR[93789:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:39:31.472 APPSTOR[93789:a0b] THREAD WARNING: ['File'] took '2159.134277' ms. Plugin should use a background thread.
+2013-11-24 21:39:59.640 APPSTOR[94321:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:39:59.837 APPSTOR[94321:a0b] Resetting plugins due to page load.
+2013-11-24 21:39:59.886 APPSTOR[94321:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:40:02.050 APPSTOR[94321:a0b] THREAD WARNING: ['File'] took '2129.717041' ms. Plugin should use a background thread.
+2013-11-24 21:41:21.507 APPSTOR[94872:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:41:21.633 APPSTOR[94872:a0b] Resetting plugins due to page load.
+2013-11-24 21:41:21.683 APPSTOR[94872:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:41:23.692 APPSTOR[94872:a0b] THREAD WARNING: ['File'] took '1974.994873' ms. Plugin should use a background thread.
+2013-11-24 21:41:54.514 APPSTOR[95406:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:41:54.643 APPSTOR[95406:a0b] Resetting plugins due to page load.
+2013-11-24 21:41:54.696 APPSTOR[95406:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:41:56.498 APPSTOR[95406:a0b] THREAD WARNING: ['File'] took '1766.611084' ms. Plugin should use a background thread.
+2013-11-24 21:42:35.893 APPSTOR[95944:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:42:36.030 APPSTOR[95944:a0b] Resetting plugins due to page load.
+2013-11-24 21:42:36.077 APPSTOR[95944:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:42:37.560 APPSTOR[95944:a0b] THREAD WARNING: ['File'] took '1450.964111' ms. Plugin should use a background thread.
+2013-11-24 21:46:26.794 APPSTOR[96551:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:46:26.904 APPSTOR[96551:a0b] Resetting plugins due to page load.
+2013-11-24 21:46:26.971 APPSTOR[96551:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:46:31.156 APPSTOR[96551:a0b] THREAD WARNING: ['File'] took '4142.321045' ms. Plugin should use a background thread.
+2013-11-24 21:53:23.249 APPSTOR[97206:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:53:23.400 APPSTOR[97206:a0b] Resetting plugins due to page load.
+2013-11-24 21:53:23.503 APPSTOR[97206:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:54:14.498 APPSTOR[97744:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:54:14.630 APPSTOR[97744:a0b] Resetting plugins due to page load.
+2013-11-24 21:54:14.712 APPSTOR[97744:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:55:33.039 APPSTOR[98293:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:55:33.170 APPSTOR[98293:a0b] Resetting plugins due to page load.
+2013-11-24 21:55:33.237 APPSTOR[98293:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:55:33.278 APPSTOR[98293:a0b] ERROR whitelist rejection: url='http://carnegieendowment.org/rss/solr/?fa=AppEurasiaOutlook'
+2013-11-24 21:55:33.279 APPSTOR[98293:1403] ERROR whitelist rejection: url='http://carnegieendowment.org/rss/solr/?fa=AppEurasiaOutlook'
+2013-11-24 21:55:33.279 APPSTOR[98293:1403] ERROR whitelist rejection: url='http://carnegieendowment.org/rss/solr/?fa=AppEurasiaOutlook'
+2013-11-24 21:55:33.280 APPSTOR[98293:1403] ERROR whitelist rejection: url='http://carnegieendowment.org/rss/solr/?fa=AppEurasiaOutlook'
+2013-11-24 21:55:33.281 APPSTOR[98293:a0b] FileTransferError {
+    body = "Could not create target file";
+    code = 1;
+    "http_status" = 200;
+    source = "http://carnegieendowment.org/rss/solr/?fa=AppEurasiaOutlook";
+    target = "/Users/kirkelliott/Library/Application Support/iPhone Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/Documents";
+}
+2013-11-24 21:55:33.282 APPSTOR[98293:a0b] File Transfer Error: Could not create target file
+2013-11-24 21:57:38.132 APPSTOR[98866:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:57:38.268 APPSTOR[98866:a0b] Resetting plugins due to page load.
+2013-11-24 21:57:38.363 APPSTOR[98866:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 21:57:38.416 APPSTOR[98866:a0b] ERROR whitelist rejection: url='http://carnegieendowment.org/rss/solr/?fa=AppEurasiaOutlook'
+2013-11-24 21:57:38.416 APPSTOR[98866:a0b] ERROR whitelist rejection: url='http://carnegieendowment.org/rss/solr/?fa=AppEurasiaOutlook'
+2013-11-24 21:57:38.417 APPSTOR[98866:a0b] ERROR whitelist rejection: url='http://carnegieendowment.org/rss/solr/?fa=AppEurasiaOutlook'
+2013-11-24 21:59:42.278 APPSTOR[99433:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 21:59:42.285 APPSTOR[99433:a0b] Unlimited access to network resources
+2013-11-24 21:59:42.423 APPSTOR[99433:a0b] Resetting plugins due to page load.
+2013-11-24 21:59:42.571 APPSTOR[99433:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 22:00:33.440 APPSTOR[99976:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 22:00:33.447 APPSTOR[99976:a0b] Unlimited access to network resources
+2013-11-24 22:00:33.566 APPSTOR[99976:a0b] Resetting plugins due to page load.
+2013-11-24 22:00:33.662 APPSTOR[99976:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-24 22:01:15.508 APPSTOR[99976:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2013-11-24 22:02:12.323 APPSTOR[693:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-24 22:02:12.331 APPSTOR[693:a0b] Unlimited access to network resources
+2013-11-24 22:02:12.450 APPSTOR[693:a0b] Resetting plugins due to page load.
+2013-11-24 22:02:12.551 APPSTOR[693:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
