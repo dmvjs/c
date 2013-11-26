@@ -27,9 +27,7 @@
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
-              <folding>
-                <marker date="1385347148000" expanded="true" signature="748:760" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,19 +50,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="feeds.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="feeds.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/feeds.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="4" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+            <state line="45" column="53" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.58677685" vertical-offset="249" max-vertical-offset="1785">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="46" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.280837" vertical-offset="45" max-vertical-offset="975">
+            <state line="22" column="19" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0" vertical-offset="249" max-vertical-offset="975">
               <folding />
             </state>
           </provider>
@@ -96,16 +94,16 @@
         <option value="$PROJECT_DIR$/www/js/connection.js" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/app.js" />
-        <option value="$PROJECT_DIR$/www/js/feeds.js" />
         <option value="$PROJECT_DIR$/www/config.xml" />
+        <option value="$PROJECT_DIR$/www/js/feeds.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="71" />
+    <option name="x" value="2" />
+    <option name="y" value="95" />
     <option name="width" value="1920" />
-    <option name="height" value="1054" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -139,6 +137,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="c" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -312,7 +320,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="71" width="1920" height="1054" extended-state="6" />
+    <frame x="2" y="95" width="1920" height="874" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -362,15 +370,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
-          <folding>
-            <marker date="1385347148000" expanded="true" signature="748:760" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/notifications.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="3" selection-start="0" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
@@ -392,16 +391,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/feeds.js">
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+        <state line="22" column="19" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0" vertical-offset="249" max-vertical-offset="975">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="46" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.280837" vertical-offset="45" max-vertical-offset="975">
+        <state line="23" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/feeds.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="53" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.58677685" vertical-offset="249" max-vertical-offset="1785">
           <folding />
         </state>
       </provider>
