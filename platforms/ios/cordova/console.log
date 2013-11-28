@@ -386,3 +386,460 @@
 2013-11-25 22:13:20.134 APPSTOR[41173:a0b] File Transfer Finished with response code 200
 2013-11-25 22:13:21.753 APPSTOR[41173:a0b] File Transfer Finished with response code 200
 2013-11-25 22:13:23.167 APPSTOR[41173:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:58.136 APPSTOR[50253:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-26 06:08:58.172 APPSTOR[50253:a0b] Unlimited access to network resources
+2013-11-26 06:08:58.466 APPSTOR[50253:a0b] Resetting plugins due to page load.
+2013-11-26 06:08:58.581 APPSTOR[50253:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-26 06:08:59.486 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.488 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.511 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.535 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.558 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.584 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.609 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.639 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.666 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.693 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.717 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.743 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.771 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.796 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.822 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.845 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.867 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.895 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.920 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.946 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:08:59.975 APPSTOR[50253:a0b] File Transfer Finished with response code 200
+2013-11-26 06:20:14.393 APPSTOR[50992:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-26 06:20:14.399 APPSTOR[50992:a0b] Unlimited access to network resources
+2013-11-26 06:20:14.544 APPSTOR[50992:a0b] Resetting plugins due to page load.
+2013-11-26 06:20:14.598 APPSTOR[50992:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-26 06:20:17.609 APPSTOR[50992:a0b] THREAD WARNING: ['File'] took '2148.499756' ms. Plugin should use a background thread.
+2013-11-26 06:21:19.080 APPSTOR[51549:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-26 06:21:19.088 APPSTOR[51549:a0b] Unlimited access to network resources
+2013-11-26 06:21:19.233 APPSTOR[51549:a0b] Resetting plugins due to page load.
+2013-11-26 06:21:19.285 APPSTOR[51549:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 17:19:10.021 APPSTOR[922:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 17:19:10.048 APPSTOR[922:a0b] Unlimited access to network resources
+2013-11-27 17:19:10.353 APPSTOR[922:a0b] Resetting plugins due to page load.
+2013-11-27 17:19:10.461 APPSTOR[922:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 17:21:33.907 APPSTOR[1509:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 17:21:33.917 APPSTOR[1509:a0b] Unlimited access to network resources
+2013-11-27 17:21:34.059 APPSTOR[1509:a0b] Resetting plugins due to page load.
+2013-11-27 17:21:34.110 APPSTOR[1509:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 17:21:36.695 APPSTOR[1509:a0b] THREAD WARNING: ['File'] took '1797.481201' ms. Plugin should use a background thread.
+2013-11-27 17:28:41.475 APPSTOR[2178:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 17:28:41.481 APPSTOR[2178:a0b] Unlimited access to network resources
+2013-11-27 17:28:41.610 APPSTOR[2178:a0b] Resetting plugins due to page load.
+2013-11-27 17:28:41.663 APPSTOR[2178:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:11:48.365 APPSTOR[3954:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:11:48.374 APPSTOR[3954:a0b] Unlimited access to network resources
+2013-11-27 18:11:48.524 APPSTOR[3954:a0b] Resetting plugins due to page load.
+2013-11-27 18:11:48.580 APPSTOR[3954:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:13:01.994 APPSTOR[4518:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:13:02.003 APPSTOR[4518:a0b] Unlimited access to network resources
+2013-11-27 18:13:02.131 APPSTOR[4518:a0b] Resetting plugins due to page load.
+2013-11-27 18:13:02.183 APPSTOR[4518:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:15:30.708 APPSTOR[5112:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:15:30.717 APPSTOR[5112:a0b] Unlimited access to network resources
+2013-11-27 18:15:30.889 APPSTOR[5112:a0b] Resetting plugins due to page load.
+2013-11-27 18:15:30.943 APPSTOR[5112:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:15:35.293 APPSTOR[5112:a0b] THREAD WARNING: ['File'] took '3386.725098' ms. Plugin should use a background thread.
+2013-11-27 18:17:14.483 APPSTOR[5687:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:17:14.491 APPSTOR[5687:a0b] Unlimited access to network resources
+2013-11-27 18:17:14.658 APPSTOR[5687:a0b] Resetting plugins due to page load.
+2013-11-27 18:17:14.723 APPSTOR[5687:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:17:50.360 APPSTOR[6238:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:17:50.367 APPSTOR[6238:a0b] Unlimited access to network resources
+2013-11-27 18:17:50.499 APPSTOR[6238:a0b] Resetting plugins due to page load.
+2013-11-27 18:17:50.549 APPSTOR[6238:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:20:36.718 APPSTOR[6834:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:20:36.725 APPSTOR[6834:a0b] Unlimited access to network resources
+2013-11-27 18:20:36.910 APPSTOR[6834:a0b] Resetting plugins due to page load.
+2013-11-27 18:20:36.968 APPSTOR[6834:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:20:39.678 APPSTOR[6834:a0b] THREAD WARNING: ['File'] took '1795.520020' ms. Plugin should use a background thread.
+2013-11-27 18:29:02.988 APPSTOR[7532:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:29:02.996 APPSTOR[7532:a0b] Unlimited access to network resources
+2013-11-27 18:29:03.222 APPSTOR[7532:a0b] Resetting plugins due to page load.
+2013-11-27 18:29:03.290 APPSTOR[7532:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:29:04.916 APPSTOR[7532:a0b] THREAD WARNING: ['File'] took '1569.593750' ms. Plugin should use a background thread.
+2013-11-27 18:29:40.906 APPSTOR[8083:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:29:40.912 APPSTOR[8083:a0b] Unlimited access to network resources
+2013-11-27 18:29:41.030 APPSTOR[8083:a0b] Resetting plugins due to page load.
+2013-11-27 18:29:41.080 APPSTOR[8083:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:29:43.500 APPSTOR[8083:a0b] THREAD WARNING: ['File'] took '2384.402832' ms. Plugin should use a background thread.
+2013-11-27 18:30:38.619 APPSTOR[8640:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:30:38.630 APPSTOR[8640:a0b] Unlimited access to network resources
+2013-11-27 18:30:38.766 APPSTOR[8640:a0b] Resetting plugins due to page load.
+2013-11-27 18:30:38.819 APPSTOR[8640:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:30:40.596 APPSTOR[8640:a0b] THREAD WARNING: ['File'] took '1738.533936' ms. Plugin should use a background thread.
+2013-11-27 18:32:02.135 APPSTOR[9206:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:32:02.141 APPSTOR[9206:a0b] Unlimited access to network resources
+2013-11-27 18:32:02.240 APPSTOR[9206:a0b] Resetting plugins due to page load.
+2013-11-27 18:32:02.297 APPSTOR[9206:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:32:03.891 APPSTOR[9206:a0b] THREAD WARNING: ['File'] took '1560.117920' ms. Plugin should use a background thread.
+2013-11-27 18:34:21.094 APPSTOR[9799:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:34:21.102 APPSTOR[9799:a0b] Unlimited access to network resources
+2013-11-27 18:34:21.229 APPSTOR[9799:a0b] Resetting plugins due to page load.
+2013-11-27 18:34:21.278 APPSTOR[9799:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:34:23.229 APPSTOR[9799:a0b] THREAD WARNING: ['File'] took '1911.910156' ms. Plugin should use a background thread.
+2013-11-27 18:34:45.150 APPSTOR[10342:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:34:45.157 APPSTOR[10342:a0b] Unlimited access to network resources
+2013-11-27 18:34:45.293 APPSTOR[10342:a0b] Resetting plugins due to page load.
+2013-11-27 18:34:45.344 APPSTOR[10342:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:35:33.845 APPSTOR[10897:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:35:33.853 APPSTOR[10897:a0b] Unlimited access to network resources
+2013-11-27 18:35:33.943 APPSTOR[10897:a0b] Resetting plugins due to page load.
+2013-11-27 18:35:34.002 APPSTOR[10897:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:35:36.008 APPSTOR[10897:a0b] THREAD WARNING: ['File'] took '1966.221924' ms. Plugin should use a background thread.
+2013-11-27 18:39:12.623 APPSTOR[11518:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:39:12.632 APPSTOR[11518:a0b] Unlimited access to network resources
+2013-11-27 18:39:12.763 APPSTOR[11518:a0b] Resetting plugins due to page load.
+2013-11-27 18:39:12.816 APPSTOR[11518:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:39:14.836 APPSTOR[11518:a0b] THREAD WARNING: ['File'] took '1984.501221' ms. Plugin should use a background thread.
+2013-11-27 18:39:16.239 APPSTOR[11518:a0b] THREAD WARNING: ['File'] took '1401.062012' ms. Plugin should use a background thread.
+2013-11-27 18:42:42.855 APPSTOR[12124:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:42:42.864 APPSTOR[12124:a0b] Unlimited access to network resources
+2013-11-27 18:42:43.013 APPSTOR[12124:a0b] Resetting plugins due to page load.
+2013-11-27 18:42:43.072 APPSTOR[12124:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:42:47.383 APPSTOR[12124:a0b] THREAD WARNING: ['File'] took '4276.520020' ms. Plugin should use a background thread.
+2013-11-27 18:49:20.383 APPSTOR[12816:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:49:20.390 APPSTOR[12816:a0b] Unlimited access to network resources
+2013-11-27 18:49:20.524 APPSTOR[12816:a0b] Resetting plugins due to page load.
+2013-11-27 18:49:20.573 APPSTOR[12816:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:51:32.921 APPSTOR[13394:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:51:32.927 APPSTOR[13394:a0b] Unlimited access to network resources
+2013-11-27 18:51:33.056 APPSTOR[13394:a0b] Resetting plugins due to page load.
+2013-11-27 18:51:33.110 APPSTOR[13394:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:51:34.910 APPSTOR[13394:a0b] THREAD WARNING: ['File'] took '1755.199951' ms. Plugin should use a background thread.
+2013-11-27 18:54:48.896 APPSTOR[14001:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:54:48.903 APPSTOR[14001:a0b] Unlimited access to network resources
+2013-11-27 18:54:49.019 APPSTOR[14001:a0b] Resetting plugins due to page load.
+2013-11-27 18:54:49.081 APPSTOR[14001:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:54:55.855 APPSTOR[14001:a0b] THREAD WARNING: ['File'] took '1728.666016' ms. Plugin should use a background thread.
+2013-11-27 18:57:19.005 APPSTOR[14597:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:57:19.013 APPSTOR[14597:a0b] Unlimited access to network resources
+2013-11-27 18:57:19.113 APPSTOR[14597:a0b] Resetting plugins due to page load.
+2013-11-27 18:57:19.166 APPSTOR[14597:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:57:20.841 APPSTOR[14597:a0b] THREAD WARNING: ['File'] took '1637.125000' ms. Plugin should use a background thread.
+2013-11-27 18:58:47.558 APPSTOR[15161:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 18:58:47.564 APPSTOR[15161:a0b] Unlimited access to network resources
+2013-11-27 18:58:47.692 APPSTOR[15161:a0b] Resetting plugins due to page load.
+2013-11-27 18:58:47.744 APPSTOR[15161:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 18:58:50.221 APPSTOR[15161:a0b] THREAD WARNING: ['File'] took '2438.843018' ms. Plugin should use a background thread.
+2013-11-27 19:00:05.160 APPSTOR[15738:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:00:05.169 APPSTOR[15738:a0b] Unlimited access to network resources
+2013-11-27 19:00:05.300 APPSTOR[15738:a0b] Resetting plugins due to page load.
+2013-11-27 19:00:05.347 APPSTOR[15738:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:00:06.987 APPSTOR[15738:a0b] THREAD WARNING: ['File'] took '1604.132080' ms. Plugin should use a background thread.
+2013-11-27 19:00:08.598 APPSTOR[15738:a0b] THREAD WARNING: ['File'] took '1599.511963' ms. Plugin should use a background thread.
+2013-11-27 19:03:12.063 APPSTOR[16348:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:03:12.068 APPSTOR[16348:a0b] Unlimited access to network resources
+2013-11-27 19:03:12.187 APPSTOR[16348:a0b] Resetting plugins due to page load.
+2013-11-27 19:03:12.237 APPSTOR[16348:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:03:14.361 APPSTOR[16348:a0b] THREAD WARNING: ['File'] took '2078.035156' ms. Plugin should use a background thread.
+2013-11-27 19:05:23.179 APPSTOR[16936:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:05:23.188 APPSTOR[16936:a0b] Unlimited access to network resources
+2013-11-27 19:05:23.329 APPSTOR[16936:a0b] Resetting plugins due to page load.
+2013-11-27 19:05:23.376 APPSTOR[16936:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:05:24.979 APPSTOR[16936:a0b] THREAD WARNING: ['File'] took '1565.792969' ms. Plugin should use a background thread.
+2013-11-27 19:05:28.345 APPSTOR[16936:a0b] THREAD WARNING: ['File'] took '1606.195068' ms. Plugin should use a background thread.
+2013-11-27 19:05:56.761 APPSTOR[17485:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:05:56.770 APPSTOR[17485:a0b] Unlimited access to network resources
+2013-11-27 19:05:56.902 APPSTOR[17485:a0b] Resetting plugins due to page load.
+2013-11-27 19:05:56.951 APPSTOR[17485:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:05:58.776 APPSTOR[17485:a0b] THREAD WARNING: ['File'] took '1787.906982' ms. Plugin should use a background thread.
+2013-11-27 19:06:42.288 APPSTOR[17485:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2013-11-27 19:06:44.152 APPSTOR[17485:a0b] THREAD WARNING: ['File'] took '1845.167969' ms. Plugin should use a background thread.
+2013-11-27 19:08:47.762 APPSTOR[18082:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:08:47.770 APPSTOR[18082:a0b] Unlimited access to network resources
+2013-11-27 19:08:47.924 APPSTOR[18082:a0b] Resetting plugins due to page load.
+2013-11-27 19:08:47.973 APPSTOR[18082:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:08:49.756 APPSTOR[18082:a0b] THREAD WARNING: ['File'] took '1744.227051' ms. Plugin should use a background thread.
+2013-11-27 19:08:52.290 APPSTOR[18082:a0b] THREAD WARNING: ['File'] took '2521.840088' ms. Plugin should use a background thread.
+2013-11-27 19:10:13.924 APPSTOR[18655:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:10:13.930 APPSTOR[18655:a0b] Unlimited access to network resources
+2013-11-27 19:10:14.053 APPSTOR[18655:a0b] Resetting plugins due to page load.
+2013-11-27 19:10:14.106 APPSTOR[18655:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:10:15.783 APPSTOR[18655:a0b] THREAD WARNING: ['File'] took '1638.226074' ms. Plugin should use a background thread.
+2013-11-27 19:10:16.960 APPSTOR[18655:a0b] THREAD WARNING: ['File'] took '1164.854004' ms. Plugin should use a background thread.
+2013-11-27 19:10:54.127 APPSTOR[19205:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:10:54.133 APPSTOR[19205:a0b] Unlimited access to network resources
+2013-11-27 19:10:54.251 APPSTOR[19205:a0b] Resetting plugins due to page load.
+2013-11-27 19:10:54.309 APPSTOR[19205:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:10:56.528 APPSTOR[19205:a0b] THREAD WARNING: ['File'] took '2178.242920' ms. Plugin should use a background thread.
+2013-11-27 19:11:40.144 APPSTOR[19758:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:11:40.152 APPSTOR[19758:a0b] Unlimited access to network resources
+2013-11-27 19:11:40.274 APPSTOR[19758:a0b] Resetting plugins due to page load.
+2013-11-27 19:11:40.323 APPSTOR[19758:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:12:12.612 APPSTOR[20309:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:12:12.618 APPSTOR[20309:a0b] Unlimited access to network resources
+2013-11-27 19:12:12.745 APPSTOR[20309:a0b] Resetting plugins due to page load.
+2013-11-27 19:12:12.793 APPSTOR[20309:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:13:00.633 APPSTOR[21316:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:13:00.642 APPSTOR[21316:a0b] Unlimited access to network resources
+2013-11-27 19:13:00.769 APPSTOR[21316:a0b] Resetting plugins due to page load.
+2013-11-27 19:13:00.816 APPSTOR[21316:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:15:32.430 APPSTOR[21917:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:15:32.437 APPSTOR[21917:a0b] Unlimited access to network resources
+2013-11-27 19:15:32.576 APPSTOR[21917:a0b] Resetting plugins due to page load.
+2013-11-27 19:15:32.623 APPSTOR[21917:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:19:44.389 APPSTOR[22538:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:19:44.396 APPSTOR[22538:a0b] Unlimited access to network resources
+2013-11-27 19:19:44.522 APPSTOR[22538:a0b] Resetting plugins due to page load.
+2013-11-27 19:19:44.572 APPSTOR[22538:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:21:39.725 APPSTOR[23116:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:21:39.734 APPSTOR[23116:a0b] Unlimited access to network resources
+2013-11-27 19:21:39.868 APPSTOR[23116:a0b] Resetting plugins due to page load.
+2013-11-27 19:21:39.919 APPSTOR[23116:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:26:00.325 APPSTOR[23754:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:26:00.330 APPSTOR[23754:a0b] Unlimited access to network resources
+2013-11-27 19:26:00.456 APPSTOR[23754:a0b] Resetting plugins due to page load.
+2013-11-27 19:26:00.502 APPSTOR[23754:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:26:11.707 APPSTOR[23754:a0b] THREAD WARNING: ['File'] took '11167.632080' ms. Plugin should use a background thread.
+2013-11-27 19:27:10.672 APPSTOR[24312:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:27:10.679 APPSTOR[24312:a0b] Unlimited access to network resources
+2013-11-27 19:27:10.800 APPSTOR[24312:a0b] Resetting plugins due to page load.
+2013-11-27 19:27:10.852 APPSTOR[24312:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:27:14.381 APPSTOR[24312:a0b] THREAD WARNING: ['File'] took '3487.026855' ms. Plugin should use a background thread.
+2013-11-27 19:27:57.976 APPSTOR[24864:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:27:57.982 APPSTOR[24864:a0b] Unlimited access to network resources
+2013-11-27 19:27:58.109 APPSTOR[24864:a0b] Resetting plugins due to page load.
+2013-11-27 19:27:58.158 APPSTOR[24864:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:48:28.958 APPSTOR[26234:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:48:28.966 APPSTOR[26234:a0b] Unlimited access to network resources
+2013-11-27 19:48:29.092 APPSTOR[26234:a0b] Resetting plugins due to page load.
+2013-11-27 19:48:29.148 APPSTOR[26234:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:48:30.995 APPSTOR[26234:a0b] THREAD WARNING: ['File'] took '1806.221924' ms. Plugin should use a background thread.
+2013-11-27 19:50:41.106 APPSTOR[26823:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:50:41.112 APPSTOR[26823:a0b] Unlimited access to network resources
+2013-11-27 19:50:41.252 APPSTOR[26823:a0b] Resetting plugins due to page load.
+2013-11-27 19:50:41.306 APPSTOR[26823:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:50:45.212 APPSTOR[26823:a0b] THREAD WARNING: ['File'] took '3861.290771' ms. Plugin should use a background thread.
+2013-11-27 19:51:49.949 APPSTOR[27399:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:51:49.957 APPSTOR[27399:a0b] Unlimited access to network resources
+2013-11-27 19:51:50.104 APPSTOR[27399:a0b] Resetting plugins due to page load.
+2013-11-27 19:51:50.155 APPSTOR[27399:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:51:52.717 APPSTOR[27399:a0b] THREAD WARNING: ['File'] took '2522.108154' ms. Plugin should use a background thread.
+2013-11-27 19:53:01.723 APPSTOR[27959:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:53:01.730 APPSTOR[27959:a0b] Unlimited access to network resources
+2013-11-27 19:53:01.858 APPSTOR[27959:a0b] Resetting plugins due to page load.
+2013-11-27 19:53:01.908 APPSTOR[27959:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:53:04.037 APPSTOR[27959:a0b] THREAD WARNING: ['File'] took '2088.253174' ms. Plugin should use a background thread.
+2013-11-27 19:56:34.902 APPSTOR[28574:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:56:34.911 APPSTOR[28574:a0b] Unlimited access to network resources
+2013-11-27 19:56:35.064 APPSTOR[28574:a0b] Resetting plugins due to page load.
+2013-11-27 19:56:35.118 APPSTOR[28574:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:56:37.794 APPSTOR[28574:a0b] THREAD WARNING: ['File'] took '2632.843994' ms. Plugin should use a background thread.
+2013-11-27 19:58:45.571 APPSTOR[29166:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 19:58:45.577 APPSTOR[29166:a0b] Unlimited access to network resources
+2013-11-27 19:58:45.702 APPSTOR[29166:a0b] Resetting plugins due to page load.
+2013-11-27 19:58:45.752 APPSTOR[29166:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 19:58:47.444 APPSTOR[29166:a0b] THREAD WARNING: ['File'] took '1652.432129' ms. Plugin should use a background thread.
+2013-11-27 20:00:01.151 APPSTOR[29735:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:00:01.156 APPSTOR[29735:a0b] Unlimited access to network resources
+2013-11-27 20:00:01.270 APPSTOR[29735:a0b] Resetting plugins due to page load.
+2013-11-27 20:00:01.322 APPSTOR[29735:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:00:04.904 APPSTOR[29735:a0b] THREAD WARNING: ['File'] took '3546.913818' ms. Plugin should use a background thread.
+2013-11-27 20:01:02.081 APPSTOR[30289:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:01:02.090 APPSTOR[30289:a0b] Unlimited access to network resources
+2013-11-27 20:01:02.203 APPSTOR[30289:a0b] Resetting plugins due to page load.
+2013-11-27 20:01:02.255 APPSTOR[30289:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:01:04.257 APPSTOR[30289:a0b] THREAD WARNING: ['File'] took '1959.115967' ms. Plugin should use a background thread.
+2013-11-27 20:03:18.214 APPSTOR[30892:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:03:18.224 APPSTOR[30892:a0b] Unlimited access to network resources
+2013-11-27 20:03:18.381 APPSTOR[30892:a0b] Resetting plugins due to page load.
+2013-11-27 20:03:18.432 APPSTOR[30892:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:03:21.239 APPSTOR[30892:a0b] THREAD WARNING: ['File'] took '2767.866211' ms. Plugin should use a background thread.
+2013-11-27 20:06:10.360 APPSTOR[31495:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:06:10.369 APPSTOR[31495:a0b] Unlimited access to network resources
+2013-11-27 20:06:10.509 APPSTOR[31495:a0b] Resetting plugins due to page load.
+2013-11-27 20:06:10.564 APPSTOR[31495:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:06:19.725 APPSTOR[31495:a0b] THREAD WARNING: ['File'] took '9118.322266' ms. Plugin should use a background thread.
+2013-11-27 20:06:55.400 APPSTOR[32046:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:06:55.406 APPSTOR[32046:a0b] Unlimited access to network resources
+2013-11-27 20:06:55.531 APPSTOR[32046:a0b] Resetting plugins due to page load.
+2013-11-27 20:06:55.577 APPSTOR[32046:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:06:58.642 APPSTOR[32046:a0b] THREAD WARNING: ['File'] took '3024.562988' ms. Plugin should use a background thread.
+2013-11-27 20:09:54.971 APPSTOR[32645:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:09:54.977 APPSTOR[32645:a0b] Unlimited access to network resources
+2013-11-27 20:09:55.103 APPSTOR[32645:a0b] Resetting plugins due to page load.
+2013-11-27 20:09:55.157 APPSTOR[32645:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:14:14.397 APPSTOR[33273:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:14:14.405 APPSTOR[33273:a0b] Unlimited access to network resources
+2013-11-27 20:14:14.540 APPSTOR[33273:a0b] Resetting plugins due to page load.
+2013-11-27 20:14:14.591 APPSTOR[33273:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:15:43.401 APPSTOR[33840:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:15:43.407 APPSTOR[33840:a0b] Unlimited access to network resources
+2013-11-27 20:15:43.527 APPSTOR[33840:a0b] Resetting plugins due to page load.
+2013-11-27 20:15:43.576 APPSTOR[33840:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:18:52.232 APPSTOR[34449:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:18:52.238 APPSTOR[34449:a0b] Unlimited access to network resources
+2013-11-27 20:18:52.365 APPSTOR[34449:a0b] Resetting plugins due to page load.
+2013-11-27 20:18:52.418 APPSTOR[34449:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:18:54.856 APPSTOR[34449:a0b] THREAD WARNING: ['File'] took '2400.727783' ms. Plugin should use a background thread.
+2013-11-27 20:20:05.058 APPSTOR[35474:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:20:05.067 APPSTOR[35474:a0b] Unlimited access to network resources
+2013-11-27 20:20:05.188 APPSTOR[35474:a0b] Resetting plugins due to page load.
+2013-11-27 20:20:05.237 APPSTOR[35474:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:21:38.664 APPSTOR[36052:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:21:38.671 APPSTOR[36052:a0b] Unlimited access to network resources
+2013-11-27 20:21:38.827 APPSTOR[36052:a0b] Resetting plugins due to page load.
+2013-11-27 20:21:38.879 APPSTOR[36052:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:21:41.265 APPSTOR[36052:a0b] THREAD WARNING: ['File'] took '2347.929932' ms. Plugin should use a background thread.
+2013-11-27 20:22:57.369 APPSTOR[36618:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:22:57.378 APPSTOR[36618:a0b] Unlimited access to network resources
+2013-11-27 20:22:57.501 APPSTOR[36618:a0b] Resetting plugins due to page load.
+2013-11-27 20:22:57.555 APPSTOR[36618:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:22:59.982 APPSTOR[36618:a0b] THREAD WARNING: ['File'] took '2388.743896' ms. Plugin should use a background thread.
+2013-11-27 20:23:03.098 APPSTOR[36618:a0b] THREAD WARNING: ['File'] took '3099.798096' ms. Plugin should use a background thread.
+2013-11-27 20:23:59.711 APPSTOR[37181:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:23:59.720 APPSTOR[37181:a0b] Unlimited access to network resources
+2013-11-27 20:23:59.841 APPSTOR[37181:a0b] Resetting plugins due to page load.
+2013-11-27 20:23:59.891 APPSTOR[37181:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:24:24.361 APPSTOR[37727:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:24:24.369 APPSTOR[37727:a0b] Unlimited access to network resources
+2013-11-27 20:24:24.485 APPSTOR[37727:a0b] Resetting plugins due to page load.
+2013-11-27 20:24:24.534 APPSTOR[37727:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:25:09.790 APPSTOR[38280:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:25:09.797 APPSTOR[38280:a0b] Unlimited access to network resources
+2013-11-27 20:25:09.919 APPSTOR[38280:a0b] Resetting plugins due to page load.
+2013-11-27 20:25:09.970 APPSTOR[38280:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:26:48.550 APPSTOR[38854:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 20:26:48.558 APPSTOR[38854:a0b] Unlimited access to network resources
+2013-11-27 20:26:48.685 APPSTOR[38854:a0b] Resetting plugins due to page load.
+2013-11-27 20:26:48.733 APPSTOR[38854:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-27 20:26:50.443 APPSTOR[38854:a0b] THREAD WARNING: ['File'] took '1674.050781' ms. Plugin should use a background thread.
+2013-11-27 20:26:52.133 APPSTOR[38854:a0b] THREAD WARNING: ['File'] took '1675.915039' ms. Plugin should use a background thread.
+2013-11-28 14:13:42.932 APPSTOR[56345:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:13:42.980 APPSTOR[56345:a0b] Unlimited access to network resources
+2013-11-28 14:13:43.189 APPSTOR[56345:a0b] Resetting plugins due to page load.
+2013-11-28 14:13:43.301 APPSTOR[56345:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:16:50.440 APPSTOR[56947:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:16:50.449 APPSTOR[56947:a0b] Unlimited access to network resources
+2013-11-28 14:16:50.590 APPSTOR[56947:a0b] Resetting plugins due to page load.
+2013-11-28 14:16:50.643 APPSTOR[56947:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:31:23.066 APPSTOR[57776:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:31:23.074 APPSTOR[57776:a0b] Unlimited access to network resources
+2013-11-28 14:31:23.193 APPSTOR[57776:a0b] Resetting plugins due to page load.
+2013-11-28 14:31:23.249 APPSTOR[57776:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:32:46.739 APPSTOR[58345:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:32:46.749 APPSTOR[58345:a0b] Unlimited access to network resources
+2013-11-28 14:32:46.866 APPSTOR[58345:a0b] Resetting plugins due to page load.
+2013-11-28 14:32:46.920 APPSTOR[58345:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:33:48.913 APPSTOR[58912:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:33:48.926 APPSTOR[58912:a0b] Unlimited access to network resources
+2013-11-28 14:33:49.035 APPSTOR[58912:a0b] Resetting plugins due to page load.
+2013-11-28 14:33:49.085 APPSTOR[58912:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:35:10.814 APPSTOR[59481:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:35:10.821 APPSTOR[59481:a0b] Unlimited access to network resources
+2013-11-28 14:35:10.941 APPSTOR[59481:a0b] Resetting plugins due to page load.
+2013-11-28 14:35:10.991 APPSTOR[59481:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:36:22.532 APPSTOR[60049:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:36:22.539 APPSTOR[60049:a0b] Unlimited access to network resources
+2013-11-28 14:36:22.664 APPSTOR[60049:a0b] Resetting plugins due to page load.
+2013-11-28 14:36:22.716 APPSTOR[60049:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:37:54.333 APPSTOR[60622:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:37:54.342 APPSTOR[60622:a0b] Unlimited access to network resources
+2013-11-28 14:37:54.460 APPSTOR[60622:a0b] Resetting plugins due to page load.
+2013-11-28 14:37:54.513 APPSTOR[60622:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:38:58.262 APPSTOR[61182:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:38:58.268 APPSTOR[61182:a0b] Unlimited access to network resources
+2013-11-28 14:38:58.400 APPSTOR[61182:a0b] Resetting plugins due to page load.
+2013-11-28 14:38:58.449 APPSTOR[61182:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:40:08.932 APPSTOR[61742:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:40:08.939 APPSTOR[61742:a0b] Unlimited access to network resources
+2013-11-28 14:40:09.059 APPSTOR[61742:a0b] Resetting plugins due to page load.
+2013-11-28 14:40:09.113 APPSTOR[61742:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:42:42.377 APPSTOR[62341:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:42:42.385 APPSTOR[62341:a0b] Unlimited access to network resources
+2013-11-28 14:42:42.505 APPSTOR[62341:a0b] Resetting plugins due to page load.
+2013-11-28 14:42:42.559 APPSTOR[62341:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:44:07.873 APPSTOR[62905:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:44:07.881 APPSTOR[62905:a0b] Unlimited access to network resources
+2013-11-28 14:44:08.003 APPSTOR[62905:a0b] Resetting plugins due to page load.
+2013-11-28 14:44:08.057 APPSTOR[62905:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 14:45:43.071 APPSTOR[63477:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 14:45:43.079 APPSTOR[63477:a0b] Unlimited access to network resources
+2013-11-28 14:45:43.166 APPSTOR[63477:a0b] Resetting plugins due to page load.
+2013-11-28 14:45:43.219 APPSTOR[63477:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 15:14:25.250 APPSTOR[64516:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 15:14:25.258 APPSTOR[64516:a0b] Unlimited access to network resources
+2013-11-28 15:14:25.376 APPSTOR[64516:a0b] Resetting plugins due to page load.
+2013-11-28 15:14:25.430 APPSTOR[64516:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 15:14:26.420 APPSTOR[64516:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:14.795 APPSTOR[65112:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 15:17:14.801 APPSTOR[65112:a0b] Unlimited access to network resources
+2013-11-28 15:17:14.934 APPSTOR[65112:a0b] Resetting plugins due to page load.
+2013-11-28 15:17:14.983 APPSTOR[65112:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 15:17:15.864 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:15.924 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:15.977 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.034 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.077 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.110 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.153 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.196 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.236 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.279 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.336 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.375 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.417 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.462 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.512 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.549 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.585 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.625 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:17:16.655 APPSTOR[65112:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:29.298 APPSTOR[66022:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 15:37:29.307 APPSTOR[66022:a0b] Unlimited access to network resources
+2013-11-28 15:37:29.449 APPSTOR[66022:a0b] Resetting plugins due to page load.
+2013-11-28 15:37:29.504 APPSTOR[66022:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 15:37:30.479 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.531 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.570 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.604 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.633 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.663 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.695 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.725 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.753 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.792 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.828 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.867 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.901 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.932 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:30.970 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:31.001 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:31.034 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:31.069 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:37:31.103 APPSTOR[66022:a0b] File Transfer Finished with response code 200
+2013-11-28 15:44:37.503 APPSTOR[66691:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 15:44:37.509 APPSTOR[66691:a0b] Unlimited access to network resources
+2013-11-28 15:44:37.640 APPSTOR[66691:a0b] Resetting plugins due to page load.
+2013-11-28 15:44:37.692 APPSTOR[66691:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 15:45:47.864 APPSTOR[67251:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 15:45:47.870 APPSTOR[67251:a0b] Unlimited access to network resources
+2013-11-28 15:45:47.996 APPSTOR[67251:a0b] Resetting plugins due to page load.
+2013-11-28 15:45:48.047 APPSTOR[67251:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 15:45:50.772 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1832.072998' ms. Plugin should use a background thread.
+2013-11-28 15:45:52.414 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1640.982910' ms. Plugin should use a background thread.
+2013-11-28 15:45:53.639 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1223.471924' ms. Plugin should use a background thread.
+2013-11-28 15:45:55.316 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1675.508057' ms. Plugin should use a background thread.
+2013-11-28 15:45:56.668 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1351.107178' ms. Plugin should use a background thread.
+2013-11-28 15:45:58.522 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1852.173828' ms. Plugin should use a background thread.
+2013-11-28 15:46:00.281 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1758.251953' ms. Plugin should use a background thread.
+2013-11-28 15:46:01.709 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1426.870117' ms. Plugin should use a background thread.
+2013-11-28 15:46:03.078 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1367.964111' ms. Plugin should use a background thread.
+2013-11-28 15:46:05.025 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1945.454102' ms. Plugin should use a background thread.
+2013-11-28 15:46:06.363 APPSTOR[67251:a0b] THREAD WARNING: ['File'] took '1336.896240' ms. Plugin should use a background thread.
+2013-11-28 15:49:08.428 APPSTOR[67867:a0b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 15:49:08.435 APPSTOR[67867:a0b] Unlimited access to network resources
+2013-11-28 15:49:08.549 APPSTOR[67867:a0b] Resetting plugins due to page load.
+2013-11-28 15:49:08.598 APPSTOR[67867:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/EEFC92F0-F325-418F-B835-8E1206396396/APPSTOR.app/www/index.html
+2013-11-28 15:49:09.580 APPSTOR[67867:a0b] File Transfer Finished with response code 200
+2013-11-28 15:49:09.629 APPSTOR[67867:a0b] File Transfer Finished with response code 200
+2013-11-28 15:49:09.657 APPSTOR[67867:a0b] File Transfer Finished with response code 200
+2013-11-28 15:49:09.691 APPSTOR[67867:a0b] File Transfer Finished with response code 200
+2013-11-28 15:49:09.715 APPSTOR[67867:a0b] File Transfer Finished with response code 200

@@ -12,13 +12,15 @@ $(window).on('go', function (e) {
     fs: null,
     activeFile: null,
     activeWriter: null,
-    activeFeed: 0,
     existingFile: null,
-    workingFeed: 0,
+    existingJSON: null,
     imageURLList: [],
 
+    init: function () {
+      window.app.feedServices.getFeedData();
+    },
 
-    init: function (feedId) {
+    getFeedData: function () {
       var feedId = feedId || 0,
         filename = 'feed' + window.app.feeds[feedId].id + '.json';
 
@@ -36,35 +38,11 @@ $(window).on('go', function (e) {
           if (!window.app.connect.online) {
             alert('no connection & no local file');
           } else {
-            alert('making file');
             window.app.feedServices.createFile(
               filename
             );
           }
         });
-    },
-
-    loadFile: function (filename, callback, fail) {
-      window.app.feedServices.fs.root.getFile(
-        filename,
-        null,
-        callback || window.app.feedServices.gotFileEntry,
-        fail || window.app.feedServices.fileError
-      );
-    },
-
-    readFile: function (file) {
-      var reader = new FileReader();
-      reader.onloadend = function (e) {
-        var text = JSON.stringify(e.target.result);
-        alert(text.substr(0, 40))
-      };
-      reader.readAsText(file);
-    },
-
-    writeLocalFeed: function (data) {
-      var text = JSON.stringify(data);
-      window.app.feedServices.activeWriter.write(JSON.stringify(data));
     },
 
     createFile: function (filename) {
@@ -79,10 +57,12 @@ $(window).on('go', function (e) {
       );
     },
 
-    gotReadFileEntry: function (fileEntry) {
-      fileEntry.file(
-        window.app.feedServices.gotReadFile,
-        window.app.feedServices.fileError
+    loadFile: function (filename, callback, fail) {
+      window.app.feedServices.fs.root.getFile(
+        filename,
+        null,
+        callback || window.app.feedServices.gotFileEntry,
+        fail || window.app.feedServices.fileError
       );
     },
 
@@ -91,11 +71,6 @@ $(window).on('go', function (e) {
         window.app.feedServices.gotFile,
         window.app.feedServices.fileError
       );
-    },
-
-    gotReadFile: function (file) {
-      window.app.feedServices.existingFile = file;
-      window.app.feedServices.readFile(file);
     },
 
     gotFile: function (file) {
@@ -109,29 +84,70 @@ $(window).on('go', function (e) {
     gotFileWriter: function (writer) {
       window.app.feedServices.activeWriter = writer;
       writer.onwriteend = function(e) {
-        alert('writer done');
-        window.app.feedServices.gotReadFileEntry(window.app.feedServices.activeFile);
-        //window.app.feedServices.readFile(window.app.feedServices.activeFile);
+        //window.app.feedServices.gotReadFileEntry(window.app.feedServices.activeFile);
         //window.app.feedServices.downloadImages();
       };
     },
 
+    writeLocalFeed: function (data) {
+      if (data && data.rss && data.rss.channel && data.rss.channel.item) {
+        if (window.app.feedServices.existingFile && window.app.feedServices.existingJSON) {
+          //add new stories only to the local file (hopefully in the right order)
+          var json = window.app.feedServices.existingJSON,
+            item = data.rss.channel.item,
+            i = data.rss.channel.item.length - 1,
+            j = 0,
+            match;
+          for (i; i > -1; i -= 1) {
+            match = false;
+            for (j = 0; j < json.length; j += 1) {
+              if (item[i].title === json[j].title) {
+                match = true;
+              }
+            }
+            if (match === false) {
+              json.push(item[i]);
+            }
+          }
+          window.app.feedServices.createImageURLList(json);
+          window.app.feedServices.activeWriter.write(JSON.stringify(json));
+          alert(json.length)
+        } else {
+          window.app.feedServices.createImageURLList(data.rss.channel.item);
+          window.app.feedServices.activeWriter.write(JSON.stringify(data.rss.channel.item));
+        }
+      }
+    },
 
+    gotReadFileEntry: function (fileEntry) {
+      fileEntry.file(
+        window.app.feedServices.gotReadFile,
+        window.app.feedServices.fileError
+      );
+    },
 
+    gotReadFile: function (file) {
+      window.app.feedServices.existingFile = file;
+      window.app.feedServices.readFile(file);
+    },
 
+    readFile: function (file) {
+      var reader = new FileReader();
+      reader.onloadend = function (e) {
+        window.app.feedServices.existingJSON = JSON.parse(e.target.result);
+      };
+      reader.readAsText(file);
+    },
 
-
-    createImageURLList: function () {
-      var feed = window.app.feedServices.feedJSON.rss.channel.item;
-
+    createImageURLList: function (feed) {
       $.each(feed, function (index, element) {
         window.app.feedServices.imageURLList.push(element.image);
       })
 
-      alert('imageURLList created')
+      window.app.feedServices.downloadImage();
     },
 
-    downloadImages: function () {
+    downloadImage: function () {
       var file = window.app.feedServices.imageURLList.shift();
       if (window.app.feedServices.imageURLList.length) {
         window.app.feedServices.downloadFile(file);
@@ -140,14 +156,26 @@ $(window).on('go', function (e) {
       }
     },
 
-    downloadFile: function (url, callback) {
+    downloadFile: function (url) {
+      window.app.feedServices.loadFile(
+        url.split('/').pop(),
+        // image already exists locally, skip this download
+        window.app.feedServices.downloadImage,
+        // image does not exist locally, download image
+        function () {
+          window.app.feedServices.downloadNewImage(url);
+        }
+      );
+    },
+
+    downloadNewImage: function (url) {
       var fileTransfer = new FileTransfer(),
         uri = encodeURI(url);
 
       fileTransfer.download(
         uri,
         window.app.feedServices.fs.root.fullPath + '/' + url.split('/').pop(),
-        callback,
+        window.app.feedServices.downloadImage,
         window.app.feedServices.fileError,
         false
       );
