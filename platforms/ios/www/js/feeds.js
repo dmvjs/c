@@ -110,10 +110,11 @@ $(window).on('go', function (e) {
             }
           }
           window.app.feedServices.createImageURLList(json);
+          window.app.feedServices.existingJSON = json;
           window.app.feedServices.activeWriter.write(JSON.stringify(json));
-          alert(json.length)
         } else {
           window.app.feedServices.createImageURLList(data.rss.channel.item);
+          window.app.feedServices.existingJSON = data.rss.channel.item;
           window.app.feedServices.activeWriter.write(JSON.stringify(data.rss.channel.item));
         }
       }
@@ -135,6 +136,7 @@ $(window).on('go', function (e) {
       var reader = new FileReader();
       reader.onloadend = function (e) {
         window.app.feedServices.existingJSON = JSON.parse(e.target.result);
+        $(window).trigger('menu.contentloaded');
       };
       reader.readAsText(file);
     },
@@ -152,7 +154,7 @@ $(window).on('go', function (e) {
       if (window.app.feedServices.imageURLList.length) {
         window.app.feedServices.downloadFile(file);
       } else {
-        alert('all done');
+        $(window).trigger('menu.contentloaded');
       }
     },
 
@@ -192,8 +194,14 @@ $(window).on('go', function (e) {
 
     onFileSystemFail: function (event) {
       alert(event.target.error.code);
+    },
+
+    createMenu: function () {
+
     }
   }
+
+
 
   window.requestFileSystem(
     LocalFileSystem.PERSISTENT,

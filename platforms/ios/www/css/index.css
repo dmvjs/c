@@ -20,96 +20,117 @@
     -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
 }
 
+html {
+
+}
+
 body {
     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
     -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
     -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
-    background-color:#E4E4E4;
-    background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-gradient(
-        linear,
-        left top,
-        left bottom,
-        color-stop(0, #A7A7A7),
-        color-stop(0.51, #E4E4E4)
-    );
-    background-attachment:fixed;
-    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
-    font-size:12px;
+
+    font-family:'HelveticaNeue', Helvetica, Arial, sans-serif;
     height:100%;
-    margin:0px;
-    padding:0px;
-    text-transform:uppercase;
+    margin:0;
+    padding:0;
     width:100%;
+    background-color: dimgrey;
+    background-image: url('../img/linen.png');
+    /*background-image: url('../img/bg.png');
+    background-size: cover;*/
 }
 
-/* Portrait layout (default) */
-.app {
-    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
-    position:absolute;             /* position in the center of the screen */
-    left:50%;
-    top:50%;
-    height:50px;                   /* text area height */
-    width:225px;                   /* text area width */
-    text-align:center;
-    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
-    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
-                                   /* offset horizontal: half of text area width */
+.menuContainer {
+    position: absolute;
+    top: 44px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y:scroll;
+    -webkit-overflow-scrolling: touch;
 }
 
-/* Landscape layout (with min-width) */
-@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
-    .app {
-        background-position:left center;
-        padding:75px 0px 75px 170px;  /* padding-top + padding-bottom + text area = image height */
-        margin:-90px 0px 0px -198px;  /* offset vertical: half of image height */
-                                      /* offset horizontal: half of image width and text area width */
-    }
+.storyItem {
+    background-color: white;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    border-bottom: 1px solid black;
+    text-shadow: none;
 }
 
-h1 {
-    font-size:24px;
-    font-weight:normal;
-    margin:0px;
-    overflow:visible;
-    padding:0px;
-    text-align:center;
+.storyItem.selected {
+    background-color: lightskyblue;
+    color: white;
+    text-shadow: 1px 1px 0 midnightblue;
 }
 
-.event {
-    border-radius:4px;
-    -webkit-border-radius:4px;
-    color:#FFFFFF;
-    font-size:12px;
-    margin:0px 30px;
-    padding:2px 0px;
+.storyText {
+    width: 100%;
+    margin: 0 2px;
 }
 
-.event.listening {
-    background-color:#333333;
-    display:block;
+.storyItem:first-of-type .storyText {
+    clear: both;
+    background-color: black;
+    margin: 0;
+    overflow: auto;
 }
 
-.event.received {
-    background-color:#4B946A;
-    display:none;
+.storyTitle {
+    font-size: 1em;
+    font-weight: bolder;
+    line-height: 1.1;
+    max-height: 2.2em;
+    height: 2.2em;
+    overflow: hidden;
 }
 
-@keyframes fade {
-    from { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    to { opacity: 1.0; }
+.storyItem:first-of-type .storyTitle {
+    clear: both;
+    color: white;
+    margin: 4px;
+    font-size: 1.375em;
 }
- 
-@-webkit-keyframes fade {
-    from { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    to { opacity: 1.0; }
+
+.storyImage {
+    height: 3.6em;
+    width: 6.64024391em;
+    margin: 1px;
+    float: right;
 }
- 
-.blink {
-    animation:fade 3000ms infinite;
-    -webkit-animation:fade 3000ms infinite;
+
+.storyItem:first-of-type .storyImage {
+    width:100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    margin: 0;
+}
+
+.storyImage img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.storyAuthor, .storyDate {
+    text-transform: uppercase;
+    font-size: 0.625em;
+    line-height: 1.1;
+}
+
+.storyItem:first-of-type .storyAuthor, .storyItem:first-of-type .storyDate {
+    display: none;
+}
+
+.status {
+    height: 20px;
+    background-color: white;
+}
+
+.header {
+    height: 44px;
+    width: 100%;
+    background-image: url('../img/header-bg.png');
+    background-size: 88px 100%;
 }

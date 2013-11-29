@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9DEFE29A-34C5-4E67-93CD-94BABEB7DB62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Carnegie</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52CDD9EE-6902-48AD-9235-8BB20B3388DF</key>
+		<string>ssh://github.com/dmvjs/c.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Carnegie.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52CDD9EE-6902-48AD-9235-8BB20B3388DF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/dmvjs/c.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52CDD9EE-6902-48AD-9235-8BB20B3388DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52CDD9EE-6902-48AD-9235-8BB20B3388DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>c</string>
+		</dict>
+	</array>
+</dict>
+</plist>
