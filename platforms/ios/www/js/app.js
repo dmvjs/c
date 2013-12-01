@@ -7,6 +7,7 @@ window.app = {
 document.addEventListener("deviceready", onDeviceReady, false);
 
 function onDeviceReady() {
+  //window.navigator.splashscreen.show();
   app.go();
 
   setTimeout(function() {

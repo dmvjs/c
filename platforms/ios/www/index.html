@@ -4,23 +4,55 @@
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+        <link rel="stylesheet" type="text/css" href="css/ratchet.css" />
         <link rel="stylesheet" type="text/css" href="css/index.css" />
-        <title>Hello World</title>
-    </head>
-    <head>
         <title>Carnegie</title>
 
         <script src="phonegap.js"></script>
         <script src="js/lib/jquery.js"></script>
+        <script src="js/lib/ratchet.js"></script>
 
         <script src="js/app.js"></script>
         <script src="js/connection.js"></script>
         <script src="js/notifications.js"></script>
         <script src="js/feeds.js"></script>
         <script src="js/menu.js"></script>
+        <script src="js/header.js"></script>
+        <script src="js/story.js"></script>
     </head>
-    <body>
-        <div class="header"></div>
-        <div class="c-view"></div>
+    <body ontouchstart="">
+        <header class="bar-title">
+            <a class="button menu-btn" href="#picker">Menu</a>
+            <a class="button story-btn back-btn" href="#">Back</a>
+            <ul class="story-btn segmented-controller">
+                <li>
+                    <a class="prev-btn" href="#">Prev</a>
+                </li>
+                <li>
+                    <a class="next-btn" href="#">Next</a>
+                </li>
+            </ul>
+        </header>
+
+        <div class="storyContainer alpha"></div>
+        <div class="storyContainer bravo"></div>
+
+        <div class="content menuContainer">
+            <ul class="list">
+            </ul>
+        </div>
+
+        <div id="picker" class="modal">
+            <header class="bar-title">
+                <a class="button" href="#picker">
+                    Close
+                </a>
+                <h1 class="title"></h1>
+            </header>
+
+            <div class="content content-padded">
+                <p>The contents of my modal.</p>
+            </div>
+        </div>
     </body>
 </html>
