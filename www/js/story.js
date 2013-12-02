@@ -8,28 +8,39 @@ $(window).on('go', function (e) {
       window.app.story.currentStory = int;
       $(window).trigger('story.change');
     },
-    showStory: function () {
+    removeEnter: function () {
+      $('.storyContainer').removeClass('enter-from-right enter-from-left');
+    },
+    removeExit: function () {
       $('.storyContainer').removeClass('exit-to-right exit-to-left');
+    },
+    removeTransitions: function () {
+      window.app.story.removeEnter();
+      window.app.story.removeExit();
+      $(window.app.story.currentSelector).removeClass('from-right from-left');
+    },
+    showStory: function () {
+      window.app.story.removeTransitions();
       $(window.app.story.currentSelector).addClass('enter-from-right');
     },
     hideStory: function () {
-      $('.storyContainer').removeClass('enter-from-right enter-from-left');
+      window.app.story.removeTransitions();
       $(window.app.story.currentSelector).addClass('exit-to-right');
     },
     prevStory: function () {
       if (window.app.story.currentStory > 0) {
         window.app.story.setCurrentStory(window.app.story.currentStory - 1);
         window.app.story.buildPage();
-        //window.app.story.slidePrev();
-        //window.app.story.toggleSelector();
+        window.app.story.slidePrev();
+        window.app.story.toggleSelector();
       }
     },
     nextStory: function () {
       if (window.app.story.currentStory < window.app.feedServices.existingJSON.length - 1) {
         window.app.story.setCurrentStory(window.app.story.currentStory + 1);
         window.app.story.buildPage();
-        //window.app.story.slideNext();
-        //window.app.story.toggleSelector();
+        window.app.story.slideNext();
+        window.app.story.toggleSelector();
       }
     },
     getNotSelector: function () {
@@ -53,14 +64,14 @@ $(window).on('go', function (e) {
       $(selector).html(html);
     },
     slidePrev: function () {
-      //$('.storyContainer').removeClass('enter-from-right enter-from-left exit-to-right exit-to-left');
-      $(window.app.story.getSelector).addClass('exit-to-right');
-      //$(window.app.story.getNotSelector).addClass('enter-from-left');
+      window.app.story.removeTransitions();
+      $(window.app.story.getNotSelector()).addClass('exit-to-right');
+      $(window.app.story.getSelector()).addClass('enter-from-left');
     },
     slideNext: function () {
-      //$('.storyContainer').removeClass('enter-from-right enter-from-left exit-to-right exit-to-left');
-      //$(window.app.story.getSelector).addClass('exit-to-left').removeClass('enter-from-right');
-      //$(window.app.story.getNotSelector).addClass('enter-from-right');
+      window.app.story.removeTransitions();
+      $(window.app.story.getNotSelector()).addClass('exit-to-left');
+      $(window.app.story.getSelector()).addClass('enter-from-right');
     }
   };
 
@@ -70,7 +81,7 @@ $(window).on('go', function (e) {
 
     $(window.app.story.getSelector()).find('img').on('load', function () {
       window.app.story.showStory();
-      //window.app.story.toggleSelector();
+      window.app.story.toggleSelector();
     });
   });
 

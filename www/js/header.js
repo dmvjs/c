@@ -5,8 +5,8 @@ $(window).on('go', function (e) {
       $('.story-btn').show();
     },
     hideStoryControls: function () {
-      $('.back-btn').hide();
-      $('.story-btn').show();
+      $('.story-btn').hide();
+      $('.menu-btn').show();
     }
   };
 

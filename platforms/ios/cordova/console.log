@@ -2188,3 +2188,95 @@ Terminating in response to SpringBoard's termination.
 2013-12-01 13:01:09.855 Carnegie[64131:a0b] [CDVTimer][TotalPluginStartup] 10.153055ms
 2013-12-01 13:01:09.962 Carnegie[64131:a0b] Resetting plugins due to page load.
 2013-12-01 13:01:10.077 Carnegie[64131:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 19:54:09.786 Carnegie[70558:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 19:54:09.821 Carnegie[70558:a0b] Unlimited access to network resources
+2013-12-01 19:54:10.041 Carnegie[70558:a0b] [CDVTimer][splashscreen] 30.419052ms
+2013-12-01 19:54:10.042 Carnegie[70558:a0b] [CDVTimer][TotalPluginStartup] 30.980051ms
+2013-12-01 19:54:10.162 Carnegie[70558:a0b] Resetting plugins due to page load.
+2013-12-01 19:54:10.358 Carnegie[70558:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:00:35.089 Carnegie[71435:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:00:35.097 Carnegie[71435:a0b] Unlimited access to network resources
+2013-12-01 20:00:35.127 Carnegie[71435:a0b] [CDVTimer][splashscreen] 9.445965ms
+2013-12-01 20:00:35.127 Carnegie[71435:a0b] [CDVTimer][TotalPluginStartup] 9.965003ms
+2013-12-01 20:00:35.223 Carnegie[71435:a0b] Resetting plugins due to page load.
+2013-12-01 20:00:35.314 Carnegie[71435:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:01:26.278 Carnegie[72008:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:01:26.285 Carnegie[72008:a0b] Unlimited access to network resources
+2013-12-01 20:01:26.328 Carnegie[72008:a0b] [CDVTimer][splashscreen] 9.896994ms
+2013-12-01 20:01:26.329 Carnegie[72008:a0b] [CDVTimer][TotalPluginStartup] 10.396004ms
+2013-12-01 20:01:26.438 Carnegie[72008:a0b] Resetting plugins due to page load.
+2013-12-01 20:01:26.529 Carnegie[72008:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:03:44.600 Carnegie[72658:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:03:44.609 Carnegie[72658:a0b] Unlimited access to network resources
+2013-12-01 20:03:44.650 Carnegie[72658:a0b] [CDVTimer][splashscreen] 9.477973ms
+2013-12-01 20:03:44.650 Carnegie[72658:a0b] [CDVTimer][TotalPluginStartup] 10.098994ms
+2013-12-01 20:03:44.747 Carnegie[72658:a0b] Resetting plugins due to page load.
+2013-12-01 20:03:44.840 Carnegie[72658:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:04:49.047 Carnegie[73244:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:04:49.053 Carnegie[73244:a0b] Unlimited access to network resources
+2013-12-01 20:04:49.081 Carnegie[73244:a0b] [CDVTimer][splashscreen] 8.489013ms
+2013-12-01 20:04:49.081 Carnegie[73244:a0b] [CDVTimer][TotalPluginStartup] 8.967996ms
+2013-12-01 20:04:49.193 Carnegie[73244:a0b] Resetting plugins due to page load.
+2013-12-01 20:04:49.281 Carnegie[73244:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:07:09.399 Carnegie[73899:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:07:09.405 Carnegie[73899:a0b] Unlimited access to network resources
+2013-12-01 20:07:09.449 Carnegie[73899:a0b] [CDVTimer][splashscreen] 25.126994ms
+2013-12-01 20:07:09.450 Carnegie[73899:a0b] [CDVTimer][TotalPluginStartup] 25.599003ms
+2013-12-01 20:07:09.548 Carnegie[73899:a0b] Resetting plugins due to page load.
+2013-12-01 20:07:09.636 Carnegie[73899:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:09:24.458 Carnegie[74547:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:09:24.467 Carnegie[74547:a0b] Unlimited access to network resources
+2013-12-01 20:09:24.510 Carnegie[74547:a0b] [CDVTimer][splashscreen] 8.747995ms
+2013-12-01 20:09:24.511 Carnegie[74547:a0b] [CDVTimer][TotalPluginStartup] 9.239018ms
+2013-12-01 20:09:24.622 Carnegie[74547:a0b] Resetting plugins due to page load.
+2013-12-01 20:09:24.708 Carnegie[74547:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:10:48.659 Carnegie[75154:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:10:48.665 Carnegie[75154:a0b] Unlimited access to network resources
+2013-12-01 20:10:48.707 Carnegie[75154:a0b] [CDVTimer][splashscreen] 21.679997ms
+2013-12-01 20:10:48.707 Carnegie[75154:a0b] [CDVTimer][TotalPluginStartup] 22.564948ms
+2013-12-01 20:10:48.809 Carnegie[75154:a0b] Resetting plugins due to page load.
+2013-12-01 20:10:48.904 Carnegie[75154:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:16:30.353 Carnegie[75975:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:16:30.362 Carnegie[75975:a0b] Unlimited access to network resources
+2013-12-01 20:16:30.416 Carnegie[75975:a0b] [CDVTimer][splashscreen] 9.799004ms
+2013-12-01 20:16:30.416 Carnegie[75975:a0b] [CDVTimer][TotalPluginStartup] 10.375977ms
+2013-12-01 20:16:30.518 Carnegie[75975:a0b] Resetting plugins due to page load.
+2013-12-01 20:16:30.614 Carnegie[75975:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:18:34.214 Carnegie[76621:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:18:34.223 Carnegie[76621:a0b] Unlimited access to network resources
+2013-12-01 20:18:34.263 Carnegie[76621:a0b] [CDVTimer][splashscreen] 16.775012ms
+2013-12-01 20:18:34.263 Carnegie[76621:a0b] [CDVTimer][TotalPluginStartup] 17.283022ms
+2013-12-01 20:18:34.359 Carnegie[76621:a0b] Resetting plugins due to page load.
+2013-12-01 20:18:34.452 Carnegie[76621:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:23:51.543 Carnegie[77443:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:23:51.550 Carnegie[77443:a0b] Unlimited access to network resources
+2013-12-01 20:23:51.590 Carnegie[77443:a0b] [CDVTimer][splashscreen] 8.970976ms
+2013-12-01 20:23:51.591 Carnegie[77443:a0b] [CDVTimer][TotalPluginStartup] 9.507954ms
+2013-12-01 20:23:51.685 Carnegie[77443:a0b] Resetting plugins due to page load.
+2013-12-01 20:23:51.783 Carnegie[77443:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:30:52.435 Carnegie[78355:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:30:52.441 Carnegie[78355:a0b] Unlimited access to network resources
+2013-12-01 20:30:52.492 Carnegie[78355:a0b] [CDVTimer][splashscreen] 30.097008ms
+2013-12-01 20:30:52.492 Carnegie[78355:a0b] [CDVTimer][TotalPluginStartup] 30.480027ms
+2013-12-01 20:30:52.596 Carnegie[78355:a0b] Resetting plugins due to page load.
+2013-12-01 20:30:52.702 Carnegie[78355:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:32:44.644 Carnegie[78987:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:32:44.651 Carnegie[78987:a0b] Unlimited access to network resources
+2013-12-01 20:32:44.696 Carnegie[78987:a0b] [CDVTimer][splashscreen] 8.844018ms
+2013-12-01 20:32:44.696 Carnegie[78987:a0b] [CDVTimer][TotalPluginStartup] 9.324014ms
+2013-12-01 20:32:44.772 Carnegie[78987:a0b] Resetting plugins due to page load.
+2013-12-01 20:32:44.865 Carnegie[78987:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-01 20:34:30.944 Carnegie[79631:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-01 20:34:30.950 Carnegie[79631:a0b] Unlimited access to network resources
+2013-12-01 20:34:31.001 Carnegie[79631:a0b] [CDVTimer][splashscreen] 29.735029ms
+2013-12-01 20:34:31.001 Carnegie[79631:a0b] [CDVTimer][TotalPluginStartup] 30.560970ms
+2013-12-01 20:34:31.125 Carnegie[79631:a0b] Resetting plugins due to page load.
+2013-12-01 20:34:31.228 Carnegie[79631:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-02 06:08:24.830 Carnegie[92673:a0b] Multi-tasking -> Device: YES, App: YES
+2013-12-02 06:08:24.880 Carnegie[92673:a0b] Unlimited access to network resources
+2013-12-02 06:08:24.969 Carnegie[92673:a0b] [CDVTimer][splashscreen] 23.635983ms
+2013-12-02 06:08:24.969 Carnegie[92673:a0b] [CDVTimer][TotalPluginStartup] 24.119973ms
+2013-12-02 06:08:25.068 Carnegie[92673:a0b] Resetting plugins due to page load.
+2013-12-02 06:08:25.220 Carnegie[92673:a0b] Finished load of: file:///Users/kirkelliott/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/75A80E0D-9E94-4F93-AB79-8F9693184016/Carnegie.app/www/index.html
+2013-12-02 06:08:26.256 Carnegie[92673:a0b] File Transfer Finished with response code 200
+2013-12-02 06:08:26.297 Carnegie[92673:a0b] File Transfer Finished with response code 200
